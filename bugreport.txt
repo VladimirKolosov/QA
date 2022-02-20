@@ -1,4 +1,4 @@
-Summary - Payment on the site using Google Pay
+ Summary - Payment on the site using Google Pay
 Project - www.onlineshop.ru
 Componet - Payment Window
 Version - 1.05
